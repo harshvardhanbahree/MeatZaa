@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="E:/jars/activation.jar"/>
+	<classpathentry kind="lib" path="E:/jars/commons-fileupload-1.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/jars/commons-io-2.3.jar"/>
+	<classpathentry kind="lib" path="E:/jars/jsp-api.jar"/>
+	<classpathentry kind="lib" path="E:/jars/mail.jar"/>
+	<classpathentry kind="lib" path="E:/jars/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="E:/jars/poi-3.12.jar"/>
+	<classpathentry kind="lib" path="E:/jars/poi-ooxml-3.11.jar"/>
+	<classpathentry kind="lib" path="E:/jars/servlet-api.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
